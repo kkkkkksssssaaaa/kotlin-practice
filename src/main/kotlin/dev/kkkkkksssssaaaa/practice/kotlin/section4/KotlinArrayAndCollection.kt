@@ -73,9 +73,3 @@ class KotlinArrayAndCollection {
         // 굳이 자바와 코틀린에서 모두 사용하곘다면, 자바에도 제공하는 함수인 Collectors.unmodifiable() 을 코틀린에서 사용하여 자바에게 반환해줘라.
     }
 }
-
-class KotlinCollection(
-
-) {
-
-}
