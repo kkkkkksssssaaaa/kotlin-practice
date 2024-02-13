@@ -8,6 +8,8 @@ plugins {
     // 이걸 붙이면 JPA Entity 에 기본 생성자가 없는 오류가 없어진다.
     // TODO: 정확하게 어떤걸 지원해주는지 찾아봐야겠다.
     id("org.jetbrains.kotlin.plugin.jpa") version "1.9.22"
+    // 이걸 붙이면 프록시 생성이 필요한 스프링 빈 클래스/메서드에 번거롭게 open 을 붙이지 않아도 된다고 한다.
+    id("org.jetbrains.kotlin.plugin.spring") version "1.9.22"
 }
 
 group = "com.group"
