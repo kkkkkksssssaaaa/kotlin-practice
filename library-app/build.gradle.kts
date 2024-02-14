@@ -28,6 +28,9 @@ dependencies {
     implementation("org.jetbrains.kotlin:kotlin-reflect")
     implementation("org.springframework.boot:spring-boot-starter-data-jpa")
     implementation ("org.springframework.boot:spring-boot-starter-web")
+    // fasterxml 에 kotlin module 추가
+    // request 혹은 response 를 json 으로 직렬화하지 못하는 현상이 발생할 수 있어서 추가해야한다고 한다.
+    implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.13.3")
     runtimeOnly("com.h2database:h2")
     testImplementation("org.springframework.boot:spring-boot-starter-test")
     testImplementation("org.junit.jupiter:junit-jupiter-api:5.6.0")
