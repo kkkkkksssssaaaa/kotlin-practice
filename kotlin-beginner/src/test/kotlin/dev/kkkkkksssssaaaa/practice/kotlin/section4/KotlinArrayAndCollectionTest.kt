@@ -1,4 +1,4 @@
-package dev.kkkkkksssssaaaa.practice.kotlin.section4
+package dev.kkkkkksssssaaaa.practice.kotlinbeginner.section4
 
 import org.junit.jupiter.api.Test
 
