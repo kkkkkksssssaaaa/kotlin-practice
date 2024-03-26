@@ -1,7 +1,7 @@
-HELP.md
+kotlin-beginner/HELP.md
 .gradle
 build/
-!gradle/wrapper/gradle-wrapper.jar
+!kotlin-beginner/gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
 
