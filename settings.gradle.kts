@@ -1,4 +1,4 @@
-rootProject.name = "kotlin"
+rootProject.name = "kotlin-practice"
 
 include("kotlin-beginner")
 include("library-app")
