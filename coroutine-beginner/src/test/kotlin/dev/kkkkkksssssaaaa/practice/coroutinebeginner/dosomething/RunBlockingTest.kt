@@ -1,6 +1,5 @@
-package dev.kkkkkksssssaaaa.practice.coroutinebeginner.blocking
+package dev.kkkkkksssssaaaa.practice.coroutinebeginner.dosomething
 
-import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.Test
 
 class RunBlockingTest {

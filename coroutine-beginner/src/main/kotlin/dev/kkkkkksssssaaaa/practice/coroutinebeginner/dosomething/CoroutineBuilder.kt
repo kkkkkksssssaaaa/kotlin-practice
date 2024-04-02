@@ -1,4 +1,4 @@
-package dev.kkkkkksssssaaaa.practice.coroutinebeginner.blocking
+package dev.kkkkkksssssaaaa.practice.coroutinebeginner.dosomething
 
 import kotlinx.coroutines.*
 import kotlin.system.measureTimeMillis
